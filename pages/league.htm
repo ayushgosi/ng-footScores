@@ -1,0 +1,63 @@
+<h1 class="text-center">{{league.leagueName}}</h1>
+<br>
+<div class="row">
+
+  <!--League Fixtures-->
+  <div class="col-md-6">
+    <div class="panel panel-default panel-transparent text-center">
+      <div class="panel-heading">
+        <h3 class="panel-title">LEAGUE FIXTURES</h3>
+      </div>
+      <div class="panel-body" ng-repeat="x in league.getFixturesData.fixtures">
+        <div class="row">
+          <div class="col-md-2">{{x.date | date:'shortDate'}}</div>
+          <div class="col-md-4">{{x.homeTeamName}}</div>
+          <div class="col-md-2">{{x.result.goalsHomeTeam}} &mdash; {{x.result.goalsAwayTeam}}</div>
+          <div class="col-md-4">{{x.awayTeamName}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--League Table-->
+  <div class="col-md-6">
+    <div class="panel panel-default panel-transparent text-center">
+      <div class="panel-heading">
+        <h3 class="panel-title">LEAGUE TABLE</h3>
+      </div>
+    </div>
+    <table class="table table-hover">
+      <thead class="thead-default">
+        <tr>
+          <th>#</th>
+          <th>  </th>
+          <th>TEAM</th>
+          <th>GP</th>
+          <th>W</th>
+          <th>D</th>
+          <th>L</th>
+          <th>GF</th>
+          <th>GA</th>
+          <th>GD</th>
+          <th>PTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="x in league.getTableData.standing">
+          <th scope="row">{{x.position}}</th>
+          <td><img ng-src="{{x.crestURI}}" width="30" height="30"></td>
+          <td><a ng-href="#/team" ng-click="league.getApi(x._links.team.href)">{{x.teamName}}</a></td>
+          <td>{{x.playedGames}}</td>
+          <td>{{x.wins}}</td>
+          <td>{{x.draws}}</td>
+          <td>{{x.losses}}</td>
+          <td>{{x.goals}}</td>
+          <td>{{x.goalsAgainst}}</td>
+          <td>{{x.goalDifference}}</td>
+          <td><b>{{x.points}}</b></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>

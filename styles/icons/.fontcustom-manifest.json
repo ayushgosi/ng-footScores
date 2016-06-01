@@ -1,0 +1,688 @@
+{
+  "checksum": {
+    "previous": "43caeef81adc91999c5d34d065b1b9d04b7320f0dc34517f3051003953a7bab7",
+    "current": "43caeef81adc91999c5d34d065b1b9d04b7320f0dc34517f3051003953a7bab7"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/110924-football/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/110924-football/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/110924-football/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/110924-football/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "bees-panel-texture": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/bees-panel-texture.svg"
+    },
+    "black-and-white-whistle-variant": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/black-and-white-whistle-variant.svg"
+    },
+    "checkered-flags": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/checkered-flags.svg"
+    },
+    "couple-of-football-cones": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/couple-of-football-cones.svg"
+    },
+    "flaming-football": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/flaming-football.svg"
+    },
+    "football-award-with-white-details": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-award-with-white-details.svg"
+    },
+    "football-award-with-white-details-1": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-award-with-white-details-1.svg"
+    },
+    "football-badge": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-badge.svg"
+    },
+    "football-ball": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-ball.svg"
+    },
+    "football-ball-variant": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-ball-variant.svg"
+    },
+    "football-ball-variant-1": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-ball-variant-1.svg"
+    },
+    "football-ball-with-thick-outline": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-ball-with-thick-outline.svg"
+    },
+    "football-card-with-cross-mark": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-card-with-cross-mark.svg"
+    },
+    "football-chalice-shaped-trophy": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-chalice-shaped-trophy.svg"
+    },
+    "football-champion-trophy": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-champion-trophy.svg"
+    },
+    "football-championship-award-variant": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-championship-award-variant.svg"
+    },
+    "football-championship-award-with-plus-sign": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-championship-award-with-plus-sign.svg"
+    },
+    "football-championship-trophy": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-championship-trophy.svg"
+    },
+    "football-championship-trophy-variant": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-championship-trophy-variant.svg"
+    },
+    "football-coach-screaming": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-coach-screaming.svg"
+    },
+    "football-court-illumination-lamps": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-court-illumination-lamps.svg"
+    },
+    "football-court-top-view": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-court-top-view.svg"
+    },
+    "football-fan-raising-flag": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-fan-raising-flag.svg"
+    },
+    "football-fan-with-facepaint": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-fan-with-facepaint.svg"
+    },
+    "football-fans-group": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-fans-group.svg"
+    },
+    "football-field-in-perspective": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-field-in-perspective.svg"
+    },
+    "football-field-top-view": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-field-top-view.svg"
+    },
+    "football-field-top-view-1": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-field-top-view-1.svg"
+    },
+    "football-field-with-white-detailing": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-field-with-white-detailing.svg"
+    },
+    "football-field-with-white-details": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-field-with-white-details.svg"
+    },
+    "football-field-with-white-details-1": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-field-with-white-details-1.svg"
+    },
+    "football-frontal-standing-player-with-the-ball": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-frontal-standing-player-with-the-ball.svg"
+    },
+    "football-game-field-top-view": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-field-top-view.svg"
+    },
+    "football-game-on-tv": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-on-tv.svg"
+    },
+    "football-game-plan-on-field": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-plan-on-field.svg"
+    },
+    "football-game-referee-doing-hand-signals": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-referee-doing-hand-signals.svg"
+    },
+    "football-game-statistics": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-statistics.svg"
+    },
+    "football-game-top-view": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-top-view.svg"
+    },
+    "football-game-top-view-1": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-game-top-view-1.svg"
+    },
+    "football-glove-of-archer": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-glove-of-archer.svg"
+    },
+    "football-goal-outline": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-goal-outline.svg"
+    },
+    "football-goalkeeper-behind-the-ball": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-goalkeeper-behind-the-ball.svg"
+    },
+    "football-goalkeeper-catching-the-ball": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-goalkeeper-catching-the-ball.svg"
+    },
+    "football-in-midair": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-in-midair.svg"
+    },
+    "football-jersey-shirt": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-jersey-shirt.svg"
+    },
+    "football-leader-man": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-leader-man.svg"
+    },
+    "football-line-referee-t-shirt-with-stripes": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-line-referee-t-shirt-with-stripes.svg"
+    },
+    "football-list-and-field-outline": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-list-and-field-outline.svg"
+    },
+    "football-list-with-up-and-down-arrows": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-list-with-up-and-down-arrows.svg"
+    },
+    "football-long-socks": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-long-socks.svg"
+    },
+    "football-long-socks-1": {
+      "codepoint": 61746,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-long-socks-1.svg"
+    },
+    "football-long-socks-with-white-lines": {
+      "codepoint": 61747,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-long-socks-with-white-lines.svg"
+    },
+    "football-medal": {
+      "codepoint": 61748,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-medal.svg"
+    },
+    "football-medal-hanging-of-a-ribbon-in-black-shaped": {
+      "codepoint": 61749,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-medal-hanging-of-a-ribbon-in-black-shaped.svg"
+    },
+    "football-medal-with-number-1": {
+      "codepoint": 61750,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-medal-with-number-1.svg"
+    },
+    "football-or-soccer-board-with-results-of-games": {
+      "codepoint": 61751,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-or-soccer-board-with-results-of-games.svg"
+    },
+    "football-pads": {
+      "codepoint": 61752,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-pads.svg"
+    },
+    "football-player-attempting-to-kick-ball": {
+      "codepoint": 61753,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-attempting-to-kick-ball.svg"
+    },
+    "football-player-blocking-another-player": {
+      "codepoint": 61754,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-blocking-another-player.svg"
+    },
+    "football-player-chasing-ball": {
+      "codepoint": 61755,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-chasing-ball.svg"
+    },
+    "football-player-chasing-the-ball": {
+      "codepoint": 61756,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-chasing-the-ball.svg"
+    },
+    "football-player-close-up-with-delete-cross-symbol": {
+      "codepoint": 61757,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-close-up-with-delete-cross-symbol.svg"
+    },
+    "football-player-holding-ball": {
+      "codepoint": 61758,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-holding-ball.svg"
+    },
+    "football-player-inclined-to-front-flexed-on-knees": {
+      "codepoint": 61759,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-inclined-to-front-flexed-on-knees.svg"
+    },
+    "football-player-kicking-ball": {
+      "codepoint": 61760,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-kicking-ball.svg"
+    },
+    "football-player-kicking-ball-1": {
+      "codepoint": 61761,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-kicking-ball-1.svg"
+    },
+    "football-player-kicking-ball-2": {
+      "codepoint": 61762,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-kicking-ball-2.svg"
+    },
+    "football-player-kicking-ball-upward": {
+      "codepoint": 61763,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-kicking-ball-upward.svg"
+    },
+    "football-player-landing-on-field-missing-the-ball": {
+      "codepoint": 61764,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-landing-on-field-missing-the-ball.svg"
+    },
+    "football-player-long-socks": {
+      "codepoint": 61765,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-long-socks.svg"
+    },
+    "football-player-number-10-out": {
+      "codepoint": 61766,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-number-10-out.svg"
+    },
+    "football-player-number-10-out-symbol-with-minus-sign": {
+      "codepoint": 61767,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-number-10-out-symbol-with-minus-sign.svg"
+    },
+    "football-player-options": {
+      "codepoint": 61768,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-options.svg"
+    },
+    "football-player-posture": {
+      "codepoint": 61769,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-posture.svg"
+    },
+    "football-player-running": {
+      "codepoint": 61770,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-running.svg"
+    },
+    "football-player-running-behind-the-ball": {
+      "codepoint": 61771,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-running-behind-the-ball.svg"
+    },
+    "football-player-running-with-the-ball": {
+      "codepoint": 61772,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-running-with-the-ball.svg"
+    },
+    "football-player-setting-ball": {
+      "codepoint": 61773,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-setting-ball.svg"
+    },
+    "football-player-silhouette-kicking-ball": {
+      "codepoint": 61774,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-silhouette-kicking-ball.svg"
+    },
+    "football-player-stretching-with-flexed-leg-to-chest": {
+      "codepoint": 61775,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-stretching-with-flexed-leg-to-chest.svg"
+    },
+    "football-player-using-head-to-hit-ball": {
+      "codepoint": 61776,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-using-head-to-hit-ball.svg"
+    },
+    "football-player-wearing-jersey-number-10-with-plus-sign": {
+      "codepoint": 61777,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-wearing-jersey-number-10-with-plus-sign.svg"
+    },
+    "football-player-with-injury": {
+      "codepoint": 61778,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-with-injury.svg"
+    },
+    "football-player-with-number-10-jersey-and-check-mark": {
+      "codepoint": 61779,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-with-number-10-jersey-and-check-mark.svg"
+    },
+    "football-player-with-the-ball-in-hands": {
+      "codepoint": 61780,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-with-the-ball-in-hands.svg"
+    },
+    "football-player-with-the-ball-on-his-chest": {
+      "codepoint": 61781,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-with-the-ball-on-his-chest.svg"
+    },
+    "football-player-with-the-ball-under-the-feet": {
+      "codepoint": 61782,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-player-with-the-ball-under-the-feet.svg"
+    },
+    "football-players-on-field": {
+      "codepoint": 61783,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-players-on-field.svg"
+    },
+    "football-players-on-game": {
+      "codepoint": 61784,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-players-on-game.svg"
+    },
+    "football-practice-strategic-sketch": {
+      "codepoint": 61785,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-practice-strategic-sketch.svg"
+    },
+    "football-protector-vest": {
+      "codepoint": 61786,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-protector-vest.svg"
+    },
+    "football-red-card-in-a-hand": {
+      "codepoint": 61787,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-red-card-in-a-hand.svg"
+    },
+    "football-referee-raising-card": {
+      "codepoint": 61788,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-raising-card.svg"
+    },
+    "football-referee-showing-a-foul-card-on-top": {
+      "codepoint": 61789,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-showing-a-foul-card-on-top.svg"
+    },
+    "football-referee-showing-admonition-card": {
+      "codepoint": 61790,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-showing-admonition-card.svg"
+    },
+    "football-referee-with-check-mark": {
+      "codepoint": 61791,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-with-check-mark.svg"
+    },
+    "football-referee-with-hand-gestures": {
+      "codepoint": 61792,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-with-hand-gestures.svg"
+    },
+    "football-referee-with-hand-signal": {
+      "codepoint": 61793,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-with-hand-signal.svg"
+    },
+    "football-referee-with-minus-sign": {
+      "codepoint": 61794,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-with-minus-sign.svg"
+    },
+    "football-referee-with-whistle": {
+      "codepoint": 61795,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referee-with-whistle.svg"
+    },
+    "football-referree-with-plus-sign": {
+      "codepoint": 61796,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-referree-with-plus-sign.svg"
+    },
+    "football-shirt": {
+      "codepoint": 61797,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-shirt.svg"
+    },
+    "football-short": {
+      "codepoint": 61798,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-short.svg"
+    },
+    "football-short-1": {
+      "codepoint": 61799,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-short-1.svg"
+    },
+    "football-shorts-with-number-10": {
+      "codepoint": 61800,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-shorts-with-number-10.svg"
+    },
+    "football-shorts-with-number-12": {
+      "codepoint": 61801,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-shorts-with-number-12.svg"
+    },
+    "football-shorts-with-string-belt": {
+      "codepoint": 61802,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-shorts-with-string-belt.svg"
+    },
+    "football-signal-of-a-game-announcement-of-one-team-vs-other": {
+      "codepoint": 61803,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-signal-of-a-game-announcement-of-one-team-vs-other.svg"
+    },
+    "football-sketch-for-practice": {
+      "codepoint": 61804,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-sketch-for-practice.svg"
+    },
+    "football-sketch-for-practice-1": {
+      "codepoint": 61805,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-sketch-for-practice-1.svg"
+    },
+    "football-sketch-on-a-court": {
+      "codepoint": 61806,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-sketch-on-a-court.svg"
+    },
+    "football-socks": {
+      "codepoint": 61807,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-socks.svg"
+    },
+    "football-socks-with-white-lines-design": {
+      "codepoint": 61808,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-socks-with-white-lines-design.svg"
+    },
+    "football-sports-gloves": {
+      "codepoint": 61809,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-sports-gloves.svg"
+    },
+    "football-stats-graphic": {
+      "codepoint": 61810,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-stats-graphic.svg"
+    },
+    "football-strategic-sketch": {
+      "codepoint": 61811,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-strategic-sketch.svg"
+    },
+    "football-team-bench": {
+      "codepoint": 61812,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-team-bench.svg"
+    },
+    "football-ticket": {
+      "codepoint": 61813,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-ticket.svg"
+    },
+    "football-triangle-award-with-minus-sign": {
+      "codepoint": 61814,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-triangle-award-with-minus-sign.svg"
+    },
+    "football-triangular-trophy-with-minus-sign": {
+      "codepoint": 61815,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-triangular-trophy-with-minus-sign.svg"
+    },
+    "football-trophy": {
+      "codepoint": 61816,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy.svg"
+    },
+    "football-trophy-1": {
+      "codepoint": 61817,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-1.svg"
+    },
+    "football-trophy-2": {
+      "codepoint": 61818,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-2.svg"
+    },
+    "football-trophy-3": {
+      "codepoint": 61819,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-3.svg"
+    },
+    "football-trophy-award": {
+      "codepoint": 61820,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-award.svg"
+    },
+    "football-trophy-cup": {
+      "codepoint": 61821,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-cup.svg"
+    },
+    "football-trophy-silhouette": {
+      "codepoint": 61822,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-silhouette.svg"
+    },
+    "football-trophy-with-ball-variant": {
+      "codepoint": 61823,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-with-ball-variant.svg"
+    },
+    "football-trophy-with-check-mark": {
+      "codepoint": 61824,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-with-check-mark.svg"
+    },
+    "football-trophy-with-cross-mark": {
+      "codepoint": 61825,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-with-cross-mark.svg"
+    },
+    "football-trophy-with-delete-symbol": {
+      "codepoint": 61826,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-with-delete-symbol.svg"
+    },
+    "football-trophy-with-minus-sign": {
+      "codepoint": 61827,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-trophy-with-minus-sign.svg"
+    },
+    "football-warning-card-in-a-referee-hand": {
+      "codepoint": 61828,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-warning-card-in-a-referee-hand.svg"
+    },
+    "football-whistle-of-referee": {
+      "codepoint": 61829,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-whistle-of-referee.svg"
+    },
+    "football-winning-trophy-with-check-mark": {
+      "codepoint": 61830,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-winning-trophy-with-check-mark.svg"
+    },
+    "football-yellow-warning-card": {
+      "codepoint": 61831,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/football-yellow-warning-card.svg"
+    },
+    "game-planning-on-a-football-field": {
+      "codepoint": 61832,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/game-planning-on-a-football-field.svg"
+    },
+    "goal": {
+      "codepoint": 61833,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/goal.svg"
+    },
+    "goalkeeper-chasing-the-ball": {
+      "codepoint": 61834,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/goalkeeper-chasing-the-ball.svg"
+    },
+    "horn-speaker-with-handle": {
+      "codepoint": 61835,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/horn-speaker-with-handle.svg"
+    },
+    "inflatable-cheerer": {
+      "codepoint": 61836,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/inflatable-cheerer.svg"
+    },
+    "male-standing-with-helmet-and-jacket": {
+      "codepoint": 61837,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/male-standing-with-helmet-and-jacket.svg"
+    },
+    "man-wearing-suit-and-tie": {
+      "codepoint": 61838,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/man-wearing-suit-and-tie.svg"
+    },
+    "rattle": {
+      "codepoint": 61839,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/rattle.svg"
+    },
+    "referees-whistle-tool": {
+      "codepoint": 61840,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/referees-whistle-tool.svg"
+    },
+    "soccer-cup-trophy-black-shape": {
+      "codepoint": 61841,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/soccer-cup-trophy-black-shape.svg"
+    },
+    "soccer-t-shirt": {
+      "codepoint": 61842,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/soccer-t-shirt.svg"
+    },
+    "sportive-ball": {
+      "codepoint": 61843,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/sportive-ball.svg"
+    },
+    "sportive-trophy-cup": {
+      "codepoint": 61844,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/sportive-trophy-cup.svg"
+    },
+    "sports-badge-recognition": {
+      "codepoint": 61845,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/sports-badge-recognition.svg"
+    },
+    "substitution-of-player": {
+      "codepoint": 61846,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/substitution-of-player.svg"
+    },
+    "timer-clock": {
+      "codepoint": 61847,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/timer-clock.svg"
+    },
+    "trophy-black-silhouette": {
+      "codepoint": 61848,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/trophy-black-silhouette.svg"
+    },
+    "trophy-cup-black-shape": {
+      "codepoint": 61849,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/trophy-cup-black-shape.svg"
+    },
+    "trophy-football-cup": {
+      "codepoint": 61850,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/trophy-football-cup.svg"
+    },
+    "up-and-down-arrows-inside-boxes": {
+      "codepoint": 61851,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/up-and-down-arrows-inside-boxes.svg"
+    },
+    "whistle": {
+      "codepoint": 61852,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/whistle.svg"
+    },
+    "whistle-with-necklace": {
+      "codepoint": 61853,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/whistle-with-necklace.svg"
+    },
+    "whistle-with-white-detail": {
+      "codepoint": 61854,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/whistle-with-white-detail.svg"
+    },
+    "white-flag-outline-with-thin-pole": {
+      "codepoint": 61855,
+      "source": "/var/www/static/flaticon/zip_packs/110924-football/svg/white-flag-outline-with-thin-pole.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/110924-football/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/110924-football/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/110924-football/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/110924-football/font",
+      "preview": "/var/www/static/flaticon/zip_packs/110924-football/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/110924-football/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/110924-football/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/110924-football/font/flaticon.css"
+  ]
+}

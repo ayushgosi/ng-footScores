@@ -1,0 +1,64 @@
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-md-2">
+      <img ng-src="{{team.getTeamData.crestUrl}}" width="140" height="140">
+    </div>
+    <div class="col-md-8">
+      <div class="row"><h1>&nbsp;{{team.getTeamData.code}}</h1></div>
+      <div class="row"><p>&nbsp;&mdash;{{team.getTeamData.name}}</p></div>
+    </div>
+  </div>
+
+  <hr>
+  <p>Squad Market Value &mdash; {{team.getTeamData.squadMarketValue}}</p>
+  <!-- <p class="lead">
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</p> -->
+</div>
+
+<div class="row">
+  <!--Squad Table-->
+  <div class="col-md-8">
+    <table class="table">
+      <thead class="thead-default">
+        <tr>
+          <th>Jersey #</th>
+          <th>Position</th>
+          <th>Player Name</th>
+          <th>Nationality</th>
+          <th>Market Value</th>
+          <th>D.O.B</th>
+          <th>Contract Until</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="player in team.getTeamSquad.players">
+          <td>{{player.jerseyNumber}}</td>
+          <td>{{player.position}}</td>
+          <td>{{player.name}}</td>
+          <td>{{player.nationality}}</td>
+          <td>{{player.marketValue}}</td>
+          <td>{{player.dateOfBirth}}</td>
+          <td>{{player.contractUntil}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!--Team Fixtures-->
+  <div class="col-md-4">
+    <div class="panel panel-default panel-transparent text-center">
+      <div class="panel-heading">
+        <h3 class="panel-title">TEAM FIXTURES</h3>
+      </div>
+      <div class="panel-body" ng-repeat="x in team.getTeamFixtures.fixtures">
+        <div class="row">
+          <div class="col-md-2">{{x.date | date:'shortDate'}}</div>
+          <div class="col-md-4">{{x.homeTeamName}}</div>
+          <div class="col-md-2">{{x.result.goalsHomeTeam}} &mdash; {{x.result.goalsAwayTeam}}</div>
+          <div class="col-md-4">{{x.awayTeamName}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

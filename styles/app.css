@@ -1,0 +1,60 @@
+body{
+  background-image: url("bak/2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+  color: #577284;
+  font-weight: bolder;
+}
+
+/*Panels*/
+.panel,
+.panel-title
+{
+  border: 0px;
+  color: #577284;
+  font-weight: bolder;
+}
+.panel-transparent {
+    background: none;
+}
+.panel-transparent .panel-heading{
+    background: rgba(122, 130, 136, 0.2)!important;
+}
+.panel-transparent .panel-body{
+    background: rgba(46, 51, 56, 0.2)!important;
+}
+.panel-body:hover {
+  background-color: #6c9ab7 !important;
+}
+
+/*Table*/
+thead{
+  color: #C4C4C4;
+}
+tbody{
+  color: #C4C4C4;
+  text-shadow: 1px 0px 0.2px grey;
+}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background: rgba(0,0,0,.4);
+}
+/*.affix {
+    top:50px;
+    position:fixed;
+}*/
+
+/*.jumbotron{
+  background-color: transparent !important;
+}*/
+
+.jumbotron h1, .jumbotron .h1 {
+    margin: 0px;
+}

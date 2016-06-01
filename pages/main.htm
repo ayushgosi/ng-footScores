@@ -1,0 +1,26 @@
+<h1 class="text-center">MAIN LEAGUES</h1>
+
+<div class="panel panel-default panel-transparent col-md-9 col-md-offset-2">
+  <!--TITLE-->
+  <div class="panel-title">
+    <div class="row">
+      <strong>
+        <div class="col-md-2">CODE</div>
+        <div class="col-md-4">LEAGUE NAME</div>
+        <div class="col-md-3">NO. OF TEAMS</div>
+        <div class="col-md-3">NO. OF GAMES</div>
+      </strong>
+    </div>
+  </div>
+  <!--BODY-->
+  <div class="panel-body" ng-repeat="x in main.getData">
+    <a ng-href="#/league/{{x.caption}}/{{x.id}}">
+      <div class="row">
+        <div class="col-md-2">{{x.league}}</div>
+        <div class="col-md-4">{{x.caption}}</div>
+        <div class="col-md-3">{{x.numberOfTeams}}</div>
+        <div class="col-md-3">{{x.numberOfGames}}</div>
+      </div>
+    </a>
+  </div>
+</div>
